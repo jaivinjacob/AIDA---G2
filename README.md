@@ -317,6 +317,10 @@ Tasks:
 -   Develop Python ingestion scripts.
 -   Configure GitHub Actions workflows.
 -   Load initial raw datasets into the Databricks Bronze layer.
+-   Implement incremental loading to process only new orders
+  after the initial dataset load.
+-   Implement basic Python logging and error handling
+  to track pipeline execution and failures.
 
 **Expected deliverable:** A working ingestion pipeline with raw data
 available in cloud storage.
