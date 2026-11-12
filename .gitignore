@@ -1,0 +1,7 @@
+# Raw dataset folder
+Olist_Dataset/
+
+# Temporary lock and backup files
+.~*
+*~
+*.tmp
